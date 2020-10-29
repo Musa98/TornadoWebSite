@@ -1,0 +1,148 @@
+/* Code tidied up by ScrapBook */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0px;
+  padding: 0px;
+  border: 0px none;
+  outline: 0px none;
+  font-size: 100%;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+main {
+  display: block;
+}
+ol,
+ul {
+  list-style: outside none none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  text-decoration: underline;
+}
+a:hover {
+  cursor: pointer;
+}
+:-moz-placeholder {
+  color: rgb(169, 169, 169);
+  opacity: 1;
+}
+*::-moz-placeholder {
+  color: rgb(169, 169, 169);
+  opacity: 1;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+button,
+input,
+a {
+  outline: medium none;
+}
+button,
+input,
+select {
+  -moz-appearance: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
